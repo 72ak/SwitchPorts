@@ -95,7 +95,7 @@ violators will be ignored.
 ### Android 32bit
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Amazing Spider-Man 2 | 1.0.0 | 06/10/2026 | [boraeskicioglu/tasm2_nx](https://github.com/boraeskicioglu/tasm2_nx) | | Yes |  
+| 🟢 Amazing Spider-Man 2 | 1.0.0 | 06/10/2026 | [boraeskicioglu/tasm2_nx](https://github.com/boraeskicioglu/tasm2_nx) | [Link](https://gbatemp.net/threads/the-amazing-spider-man-2-android-switch-port.685253/) | Yes |  
 | 🟢 Angry Birds Forever | 1.0.0 | 06/10/2026 | [aks796/abforever_nx](https://github.com/aks796/abforever_nx) | | Yes |  
 | 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | | Yes |  
 | 🟢 Angry Birds: Star Wars 2 | 1.0.1 | 04/10/2026 | [markaurel13/abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | | Yes |  
@@ -115,7 +115,7 @@ violators will be ignored.
 | 🟢 Smash Hit | 0.1.0 | 04/10/2026 | [hazevauks/smashhit_nx](https://github.com/hazevauks/smashhit_nx) | | Yes |  
 | 🟢 Space Hulk | 0.1.2 | 09/10/2026 | [liartes/spacehulk-nx](https://github.com/liartes/spacehulk-nx) | | Yes |  
 | 🟢 Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | | Yes |  
-| 🟢 Ultimate Spider-man: Total Mayhem | 1.0.0 | 04/10/2026 | [boraeskicioglu/spiderman_total_mayhem_nx](https://github.com/boraeskicioglu/spiderman_total_mayhem_nx) | | Yes |  
+| 🟢 Ultimate Spider-man: Total Mayhem | 1.0.0 | 04/10/2026 | [boraeskicioglu/spiderman_total_mayhem_nx](https://github.com/boraeskicioglu/spiderman_total_mayhem_nx) | [Link](https://gbatemp.net/threads/ultimate-spider-man-total-mayhem-switch-port.685255/) | Yes |  
 
 - 12/12 Updated 05/10/2026  
 ⎯ [Top](#toc)  
@@ -268,7 +268,7 @@ violators will be ignored.
 | 🟢 Killer Instinct | 1.1.1 | 29/09/2026 | [Thorhax/Killer-Instinct-NX-Modern](https://github.com/Thorhax/Killer-Instinct-NX-Modern) | | Yes |  
 | 🟢 Killer Instinct 2 | 1.0.0 | 29/09/2026 | [Thorhax/Killer-Instinct-2-NX-Modern](https://github.com/Thorhax/Killer-Instinct-2-NX-Modern) | | Yes |  
 | 🟢 Sega Rally | switch-v0.5.3 | 08/10/2026 | [jacquesdupontd/port0r](https://github.com/jacquesdupontd/port0r) | [Link](https://gbatemp.net/threads/sega-rally-1995-arcade-on-switch-full-16-9-hd-textures-10-mods-replays-online-leaderboard.685124/) | Yes |  
-| 🟢 Sonic the Fighters | 0.8.3 | 09/10/2026 | [boraeskicioglu/sonic_the_fighters_nx](https://github.com/boraeskicioglu/sonic_the_fighters_nx) | | Yes |  
+| 🟢 Sonic the Fighters | 0.8.3 | 09/10/2026 | [boraeskicioglu/sonic_the_fighters_nx](https://github.com/boraeskicioglu/sonic_the_fighters_nx) | [Link](https://gbatemp.net/threads/sonic-the-fighters-switch-port.685251/) | Yes |  
 | 🟢 Virtua Fighter 2 | 1.1.0 | 10/10/2026 | [Thorhax/VF2-NX-Modern](https://github.com/Thorhax/VF2-NX-Modern) | [Link](https://gbatemp.net/threads/virtua-fighter-2-arcade.685157/unread) | Yes |  
 
 - 2/2 updated 05/10/2026  
