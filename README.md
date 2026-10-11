@@ -7,7 +7,39 @@ It is not recommended to upgrade yet. If you do, block Nintendo servers via pi-h
 
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)  
 
-# Disclaimer
+# Disclaimers
+## Status of Recomps/Decomps/Ports/etc.
+
+As this page has become more popular (and the projects associated with it and the threads on GBATemp, etc.),
+it has come to my attention that a lot of these projects are either being ripped off and re-compiled without
+attribution or, worse, bundled together with commercial assets and distributed illegally, often times with
+the distributing party charging a fee. Allow me to be crystal clear: if you have been charged to access a
+title listed on this page, you have been ripped off and the person who charged you has committed a crime. If
+you have downloaded any of these titles from certain Russian/Brazilian Portuguese Telegram Sites/Switch Port
+distribution applications, you are contributing to piracy. This may not bother you (many people take no issue
+with piracy, I'm not your mother), but it is directly detrimental to this scene. These illegal distribution
+avenues may fuel backlash from developers and lead to takedowns, cease and desists, or legal action. Most (if
+not all) of the projects featured here are mostly sheltered from such actions due to the fact that they include
+no proprietary code or assets, but the shady practices in the name of laziness or being uninformed are 
+fueling these illegal channels and lining the pockets of people who have done almost nothing to further
+the scene. Anyone can come in at the final hour, slap a few pieces of software together, and then serve it
+up on Telegram or through a Switch application; they do not deserve your praise for profiting off someone
+else's time and energy. Every one of these ports listed below as been released free of charge. Yes, they do
+require a small amount of know-how to get working. Every single title includes the instructions to do so
+in their Github. This is a staple of the scene, and will continue into the foreseeable future.  
+
+So if you have been charged to access any of these titles using a third party distribution avenue, I would
+advise discontinuing that practice (personally, I'd put a stop payment on the card that I used to make
+the payment to the scammer). If you invest even the smallest amount of time into gaining the knowledge to
+do this yourself, it will benefit you (and your wallet) greatly in the long run. Also, it is worth noting,
+if you are acquiring the game through one of those channels, your game is locked in time to the point at 
+which it was compiled for that channel. So if it runs poorly, it will always run poorly. Here, you will get
+bleeding edge updates (often up to the moment, depending on my free time) and be able to improve your
+experience. I highly suggest you join the official [Discord](https://discord.gg/aCaza7xDZH) and the lovely
+developers will be happy to help you along if you get stuck (but you must be willing to learn and to help
+yourself; please don't join and immediately begin flooding the channels with vague requests for assistance
+without attempting to make it work for yourself).
+
 ## Ports = AI
 
 This is a disclaimer for the "All AI = Bad" crowd. A lot, and I mean A LOT of the titles presented here
