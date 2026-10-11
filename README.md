@@ -7,6 +7,20 @@ It is not recommended to upgrade yet. If you do, block Nintendo servers via pi-h
 
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)  
 
+# Disclaimer
+## Ports = AI
+
+This is a disclaimer for the "All AI = Bad" crowd. A lot, and I mean A LOT of the titles presented here
+were assisted or mostly developed using some LLM. Whether it was to complete the source code port, upscale
+assets, work out bugs, what have you, AI has been involved at in nearly every title. So, if you are one
+of those people who spend all their time spouting off about how AI is bad, and you want nothing to do
+with it, it's very simple: This is not for you.  
+
+It would be absolutely asinine for me to attempt to document every use of AI, so just accept this
+general disclaimer as "every piece of software here *POSSIBLY* has been touched by an AI agent at
+some point". If that bothers you, there's the door. And Mathew77, you especially are not welcome.
+You know why.  
+
 # SwitchPorts
 ## Software Ported to Nintendo Switch  
 
