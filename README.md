@@ -155,6 +155,7 @@ violators will be ignored.
 | 🟢 Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | | Yes |  
 | 🟢 Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | | Yes |  
 | 🟢 Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | | Yes |  
+| 🟢 N.O.V.A. 3: Near Orbit Vanguard Alliance | 1.0.1 | 11/10/2026 | [markaurel13/nova3-nx](https://github.com/markaurel13/nova3-nx) | | Yes |  
 | 🟢 Plants vs. Zombies Touch | 1.0.2 | 01/10/2026 | [aks796/pvz_touch_nx](https://github.com/aks796/pvz_touch_nx) | | Yes |  
 | 🟢 Rayman: Jungle Run | 0.1.1 | 07/10/2026 | [iqbalriz/rayman_nx](https://github.com/iqbalriz/rayman_nx) | | Yes |  
 | 🟢 Rayman: Fiesta Run | 0.1.0 | 07/10/2026 | [iqbalriz/fiestarun_nx](https://github.com/iqbalriz/fiestarun_nx) | | Yes |  
