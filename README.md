@@ -263,6 +263,7 @@ violators will be ignored.
 ### Arcade
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Cyber Troopers Virtual-On | 1.2.0 | 10/10/2026 | [Thorhax/Virtual-On-NX](https://github.com/Thorhax/Virtual-On-NX) | [Link](https://gbatemp.net/threads/virtual-on-arcade.685244/) | Yes |  
 | 🟢 Daytona USA | 1.1.0 | 10/10/2026 | [Thorhax/Daytona-NX-Modern](https://github.com/Thorhax/Daytona-NX-Modern) | [Link](https://gbatemp.net/threads/daytona-usa-arcade-port-nx.685139/unread) | Yes |  
 | 🟢 Killer Instinct | 1.1.1 | 29/09/2026 | [Thorhax/Killer-Instinct-NX-Modern](https://github.com/Thorhax/Killer-Instinct-NX-Modern) | | Yes |  
 | 🟢 Killer Instinct 2 | 1.0.0 | 29/09/2026 | [Thorhax/Killer-Instinct-2-NX-Modern](https://github.com/Thorhax/Killer-Instinct-2-NX-Modern) | | Yes |  
