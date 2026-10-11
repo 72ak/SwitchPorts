@@ -30,7 +30,7 @@ violators will be ignored.
   may come along and update the base version of the game, at which point our NRO will
   be out of date. Please check the source and MSPR to ensure you're getting the latest
   version.
-- 🟢 - indicates the title is new and/or updated in a recent edit.
+- 🟢 - indicates the title is new and/or updated in a recent edit. Most recent commit <7 days.
 - 🟠 - indicates the title is archived.
 - 🔴 - indicates the title is dead (>12 months no activity).
 - Removed non-linked GBATemp Thread place holders. See the discussion topic linked above to
