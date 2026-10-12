@@ -443,9 +443,9 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | | Yes |  
 | 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
-| 🟢 | Silent Hill 2 | 0.55 | 10/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
-| 🟢 | Silent Hill 3 | 0.01 | 10/10/2026 | [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
-| 🟢 | Silent Hill 4: The Room | 0.01 | 12/10/2026 | [72ak/sh4-nx](https://github.com/72ak/sh4-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10922888) | Yes |
+| 🟢 Silent Hill 2 | 0.55 | 10/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
+| 🟢 Silent Hill 3 | 0.01 | 10/10/2026 | [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
+| 🟢 Silent Hill 4: The Room | 0.01 | 12/10/2026 | [72ak/sh4-nx](https://github.com/72ak/sh4-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10922888) | Yes |
 | Sonic 2006 (MarathonRecomp) | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | Yes |  
 | 🟠 Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | | No |  
 | Sonic R | 0.1 | 15/09/2026 | [boraeskicioglu/sonic_r_nx](https://github.com/boraeskicioglu/sonic_r_nx) | [Link](https://gbatemp.net/threads/sonic-r-switch-port-with-lan-support.684446/) | Yes |  
